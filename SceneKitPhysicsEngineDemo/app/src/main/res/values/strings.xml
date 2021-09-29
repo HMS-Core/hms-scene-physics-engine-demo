@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SceneKitPhysicsEngineDemo</string>
+    <string name="btn_physics_engine_demo_one_text">Physics Engine Demo 1</string>
+    <string name="btn_physics_engine_demo_two_text">Physics Engine Demo 2</string>
+</resources>
