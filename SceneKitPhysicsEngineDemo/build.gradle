@@ -1,8 +1,6 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {
-        maven { url 'http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/Product-HMS-SceneKit-release' }
-        maven { url 'http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public' }
         google()
         jcenter()
         maven { url 'https://developer.huawei.com/repo/' }
@@ -17,8 +15,6 @@ buildscript {
 
 allprojects {
     repositories {
-        maven { url 'http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/Product-HMS-SceneKit-release' }
-        maven { url 'http://szxy1.artifactory.cd-cloud-artifact.tools.huawei.com/artifactory/sz-maven-public' }
         google()
         jcenter()
         maven { url 'https://developer.huawei.com/repo/' }
